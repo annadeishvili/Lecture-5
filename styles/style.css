@@ -63,7 +63,7 @@ a {
 	color: #4E6FAE;
 	font-weight: 700;
 }
- .post-content post-content-1{
+ .post-content,.post-content-1{
 	display: flex;
 	gap: 30px;
 	
@@ -79,7 +79,7 @@ a {
 	gap: 20px
 
 }
-.post-content post-content-2{
+.post-content,.post-content-2{
 	display: flex;
 	gap: 30px;
 
