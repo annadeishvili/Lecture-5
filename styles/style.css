@@ -1,7 +1,6 @@
 body {
 	box-sizing: border-box;
 	margin: 0;
-	font-family: 'Noto Sans Georgian', sans-serif;
 }
 
 
@@ -17,6 +16,7 @@ a {
 	font-size: 26px;
 	font-weight: 600;
 	text-decoration: none;
+
 	
 }
 .active{
@@ -32,7 +32,8 @@ a {
 	flex-direction: column;
 	gap: 100px;
 	padding: 50px;
-}
+
+
 .date{
  color: #84FF81;
  font-size: 26px;
@@ -49,7 +50,7 @@ a {
 	flex-direction: column;
 	
 	gap: 20px;
-}
+
 
 .month {
 	font-size: 24px;
@@ -66,16 +67,19 @@ a {
 	display: flex;
 	gap: 30px;
 	
+	
 	& div {
 		color:#4E6FAE;
 		font-size: 14.3px;
 		font-weight: 400;
+
 	}
 }
 
 .post-content-3{
 	flex-direction: column;
 	gap: 20px
+
 
 }
 
