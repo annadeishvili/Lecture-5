@@ -81,14 +81,20 @@ a {
 }
 .post-content,.post-content-2{
 	display: flex;
-	gap: 30px;
+	gap: 30px
+}
 
 	& div {
 		color:#4E6FAE;
 		font-size: 14.3px;
 		font-weight: 400;
 	}
-
+.post{
+	display: flex;
+	flex-direction: column;
+	
+	gap: 20px;
+}
 .footer-box{
 	margin-top: 100px;
 	display: flex;
