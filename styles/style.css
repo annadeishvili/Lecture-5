@@ -27,7 +27,7 @@ a {
 }
 
 /* მთავარი გვერდი */
-.posts{
+.post{
 	display: flex;
 	flex-direction: column;
 	gap: 100px;
@@ -63,7 +63,7 @@ a {
 	color: #4E6FAE;
 	font-weight: 700;
 }
-.post-content, .post-content-3{
+ .post-content post-content-1{
 	display: flex;
 	gap: 30px;
 	
@@ -74,10 +74,20 @@ a {
 	}
 }
 
-.post-content-3{
+.post{
 	flex-direction: column;
 	gap: 20px
 
+}
+.post-content post-content-2{
+	display: flex;
+	gap: 30px;
+
+	& div {
+		color:#4E6FAE;
+		font-size: 14.3px;
+		font-weight: 400;
+	}
 }
 
 .footer-box{
