@@ -211,3 +211,7 @@ a {
 .contacts-footer{
 	padding: 50px;
 }
+@font-face{
+	font-family: "KA_LORTKIPANIDZE";
+	scr:url( );
+}
