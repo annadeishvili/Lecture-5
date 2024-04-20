@@ -74,7 +74,7 @@ a {
 	}
 }
 
-.post{
+.post-content-3{
 	flex-direction: column;
 	gap: 20px
 
@@ -88,7 +88,6 @@ a {
 		font-size: 14.3px;
 		font-weight: 400;
 	}
-}
 
 .footer-box{
 	margin-top: 100px;
